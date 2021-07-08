@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "Sandugash the best",
+  "mongoUri": "mongodb+srv://sanda:981210@cluster0.92wyl.mongodb.net/app?retryWrites=true&w=majority"
+}
